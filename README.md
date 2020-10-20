@@ -8,7 +8,7 @@ Slides of seminar "The Blockchain from a DS / DAI perspective" given by Stefano 
 Recordings:
  * [First part](https://youtu.be/WdakLy2iWKA)
  * [Second part](https://youtu.be/AMl-86LL3BM)
- * [Third part](TBD)
+ * [Third part](https://youtu.be/eTomTlZ91hc)
 
 Slides built with reveal.js (info below)
 

@@ -4,6 +4,11 @@ Slides of seminar "The Blockchain from a DS / DAI perspective" given by Stefano 
 
  * Interactive presentation: [here](https://smarianimore.github.io/dief-daiseminar2020/)
  * PDF version: [there](https://smarianimore.github.io/dief-daiseminar2020/?print-pdf)
+ 
+Recordings:
+ * [First part](https://web.microsoftstream.com/video/a65df143-5803-47b9-9a41-a159a8a35388)
+ * [Second part](https://web.microsoftstream.com/video/ebe08d7c-2ae7-4bcc-87f1-2a363ce3e8f8)
+ * [Third part](TBD)
 
 Slides built with reveal.js (info below)
 
